@@ -1,0 +1,26 @@
+.navbar-brand{
+                font-family: 'Rubik Maze', cursive;
+                font-size:45px;
+                color:#ebf705;
+
+                                }
+
+            .navbar{
+                   background-color: #02f6fa;
+            }
+            .div2{
+             background-color:#0a0000;
+            border-width:7px;
+            height:300px;
+            margin-bottom: 10px;
+            border-radius:30px;
+            }
+            h1{
+            color:rgb(17, 15, 15);
+            }
+            .p{
+            color:rgb(26, 24, 24);
+            }
+            span{
+            color:rgb(15, 15, 15);
+            }
